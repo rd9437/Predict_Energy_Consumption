@@ -65,6 +65,6 @@ Ensure you have the following installed:
 ### Installation:
 1. Clone the repository:
    ```
-   git clone https://github.com/rd9437/predict-energy-consumption.git
-   cd predict-energy-consumption 
+   git clone https://github.com/rd9437/predict_energy_consumption.git
+   cd predict_energy_consumption 
    ```
