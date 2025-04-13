@@ -1,5 +1,3 @@
-# Predict Energy Consumption using RandomForest
-
 # Power Consumption Prediction using Random Forest
 
 This project involves building a predictive model to estimate power consumption using a **Random Forest Regressor**. The goal is to analyze historical data, train a model, and evaluate its performance for predicting future power consumption.
