@@ -13,6 +13,7 @@ The dataset contains daily power consumption data, and the objective is to predi
 We use **Random Forest Regressor** to predict power consumption, evaluate the model performance using **Mean Absolute Error (MAE)** and **Root Mean Squared Error (RMSE)**, and visualize the actual vs predicted power consumption.
 
 ## Data
+
 The project uses two CSV files for training and testing:
 
 1. **df_train.csv** - Training data containing historical power consumption records.
